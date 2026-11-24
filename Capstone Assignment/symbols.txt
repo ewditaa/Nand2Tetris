@@ -1,0 +1,10 @@
+LOOP = 0
+DRAW = 8
+PAINT = 10
+color = 16
+addr = 17
+ROWLOOP = 18
+rows = 18
+cols = 19
+p = 20
+COLLOOP = 26
